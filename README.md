@@ -1,4 +1,4 @@
-## My projects are implemented based on glaphlab Framework.
+## My projects in this repository are implemented based on glaphlab Framework.
 
 #### * Adaboost ensemble, Latent Dirichlet Allocation, Decision tree, Kmean, Logistic Regression, Latent Dirichlet Allocation
 #### * TF-IDF, Clusteing, Image classification, Sentiment analysis, Recommendation, Gaussian Mixture Model, Nearest neighbors.
