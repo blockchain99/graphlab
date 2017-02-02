@@ -25,6 +25,33 @@
 
 [TF IDF_Document retrieval_wikipedia.ipynb](TF IDF_Document retrieval_wikipedia.ipynb)
 
+[Clustering with kmeans_hierarchical clustering_Wiki data](Clustering with kmeans_hierarchical clustering_Wiki data.ipynb)
+
+[binary decision trees_lending club](binary decision trees_lending club.ipynb)
+
+[binary decision trees2_lending club](binary decision trees2_lending club.ipynb)
+
+[decision-tree_lending club case study- preventing overfitting](decision-tree_lending club case study- preventing overfitting.ipynb)
+
+[document-retrieval](document-retrieval.ipynb)
+
+[gaussian mixture model_Expectation Maximization](gaussian mixture model_Expectation Maximization.ipynb)
+
+[k-means_Clustering Wikipedia documents](k-means_Clustering Wikipedia documents.ipynb)
+
+[logistic regression_Analyzing_predicting_ product sentiment from product reviewb](logistic regression_Analyzing_predicting_ product sentiment from product review.ipynb)
+
+[logistic regression_linear-classifier_log likelyhood_gradient ascent_sentment analysis](logistic regression_linear-classifier_log likelyhood_gradient ascent_sentment analysis.ipynb)
+
+[nearest-neighbors-Locality Sensitive Hashing_Wikipedia](nearest-neighbors-Locality Sensitive Hashing_Wikipedia.ipynb)
+
+[nearest-neighbors-finding similar documents in Wikipedia, news articles, StackOverflow](nearest-neighbors-finding similar documents in Wikipedia, news articles, StackOverflow.ipynb)
+
+[precision-recall_logistic regression_amazon sales data](precision-recall_logistic regression_amazon sales data.ipynb)
+
+[text-data processing_Gaussian Mixture Model](text-data processing_Gaussian Mixture Model.ipynb)
+
+
 
 
 
