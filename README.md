@@ -13,7 +13,19 @@
 
 [Image Retrieval using deep features.ipynb](Image Retrieval using deep features.ipynb)
 
-[Latent Dirichlet Allocation_Text data Processing](Latent Dirichlet Allocation_Text data Processing)
+[Latent Dirichlet Allocation_Text data Processing](Latent Dirichlet Allocation_Text data Processing.ipynb)
+
+[Logistic Regression via Stochastic Gradient Ascen_online-learning_sentment analysis.ipynb](Logistic Regression via Stochastic Gradient Ascen_online-learning_sentment analysis.ipynb)
+
+[Logistic Regression with L2 regularization_linear-classifier.ipynb](Logistic Regression with L2 regularization_linear-classifier.ipynb)
+
+[Predicting sentiment-linear-classifier.ipynb](Predicting sentiment-linear-classifier.ipynb)
+
+[Song recommender](Song recommender_quiz_myver.ipynb)
+
+[TF IDF_Document retrieval_wikipedia.ipynb](TF IDF_Document retrieval_wikipedia.ipynb)
+
+
 
 
 
